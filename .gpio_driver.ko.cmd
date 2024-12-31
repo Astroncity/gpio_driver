@@ -1,1 +1,0 @@
-savedcmd_/home/astro/projects/gpio_driver/gpio_driver.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/astro/projects/gpio_driver/gpio_driver.ko /home/astro/projects/gpio_driver/gpio_driver.o /home/astro/projects/gpio_driver/gpio_driver.mod.o /home/astro/projects/gpio_driver/.module-common.o

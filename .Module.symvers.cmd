@@ -1,1 +1,0 @@
-savedcmd_/home/astro/projects/gpio_driver/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/astro/projects/gpio_driver/Module.symvers -n -T /home/astro/projects/gpio_driver/modules.order -i Module.symvers -e 

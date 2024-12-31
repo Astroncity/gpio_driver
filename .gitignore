@@ -1,6 +1,0 @@
-gpio_driver.ko
-gpio_driver.mod.c
-gpio_driver.mod.o
-gpio_driver.o
-modules.order
-Module.symvers
