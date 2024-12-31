@@ -1,1 +1,1 @@
-/home/astro/projects/archbox/gpio_driver/gpio_driver.o
+/home/astro/projects/gpio_driver/gpio_driver.o

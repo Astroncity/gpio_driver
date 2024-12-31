@@ -5,7 +5,7 @@
 #include <linux/proc_fs.h>
 #include <linux/slab.h>
 
-#define MAX_BUF_SIZE 4
+#define MAX_BUF_SIZE 1024
 #define BCM_GPIO_BASE 0x7E000000
 
 static struct proc_dir_entry *proc = NULL;
